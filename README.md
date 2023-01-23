@@ -181,7 +181,7 @@ holy ash is supposed to be preserved here on the altar.
 ```
 
 ## Output:
-![OUTPUT](./screenshots/out1.png)
+![OUTPUT](./screenshots/out7.png)
 
 ![OUTPUT](./screenshots/out2.png)
 
@@ -194,7 +194,7 @@ holy ash is supposed to be preserved here on the altar.
 ![OUTPUT](./screenshots/out6.png)
 
 ## HTML Validator
-![HTML Validator](./screenshots/valid(2).png)
+![HTML Validator](./screenshots/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully
